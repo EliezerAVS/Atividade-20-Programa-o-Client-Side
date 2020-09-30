@@ -1,0 +1,34 @@
+@charset "UTF-8"
+
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-decoration: none;
+    list-style: none;
+    vertical-align:baseline;
+}
+body{
+    background-color: lightskyblue;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+}
+div{
+    position: relative;
+    left: 360px;
+}
+img{
+    border: 2px solid;
+    border-radius: 10px;
+}
+p{
+    font-size: 30px;
+}
+.centro{
+    text-align: center;
+}
+.resposta{
+    font-size: 23px;
+}
